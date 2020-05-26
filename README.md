@@ -1,2 +1,2 @@
 # YOLOv2
-Object detection
+Object Detection
